@@ -2,6 +2,5 @@ A software development studio. Two friends who like to create weird softwares an
 
 ### Current: Big Yikes
 
-- [Project board](https://github.com/orgs/studio7t/projects/1)
 - [Repository](https://github.com/studio7t/big-yikes)
-- _~~Live link~~ (Not yet available)_
+- [Live link](https://bigyikes.ca)
